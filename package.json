@@ -2,9 +2,18 @@
   "name": "black2017",
   "displayName": "black2017",
   "description": "A dark theme inspired by VS Code Dark 2017",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "icon": "./black2017.png",
+  "author": {
+    "name": "Alfonso Fuentes"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/alfuentes123/black2017-theme"
+  },
+
   "engines": {
-    "vscode": "^1.146.0"
+    "vscode": "^1.107.0"
   },
   "categories": [
     "Themes"
