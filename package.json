@@ -1,0 +1,21 @@
+{
+  "name": "black2017",
+  "displayName": "black2017",
+  "description": "A dark theme inspired by VS Code Dark 2017",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.146.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "black2017",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black2017-color-theme.json"
+      }
+    ]
+  }
+}
