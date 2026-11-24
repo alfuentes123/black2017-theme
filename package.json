@@ -8,7 +8,9 @@
     "name": "Alfonso Fuentes"
   },
   "license": "MIT",
+  "publisher": "AlfonsoFuentes",
   "repository": {
+    "type": "git",
     "url": "https://github.com/alfuentes123/black2017-theme"
   },
 
